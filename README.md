@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Meet
+
+Secure peer-to-peer video meetings. Open alternative to **Google Meet**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Briefing](https://github.com/holtwick/briefing), kept in sync with this repository |
+| License | AGPL-3.0 |
+
+Credit for the original work goes to the Briefing authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 # Brie.fi/ng
 
 **Secure direct video group chat**
